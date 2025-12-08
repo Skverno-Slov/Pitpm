@@ -1,0 +1,6 @@
+@LectionApi_HostAddress = http://localhost:5197
+
+GET {{LectionApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

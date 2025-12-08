@@ -1,0 +1,47 @@
+meta {
+  name: get /hello
+  type: http
+  seq: 2
+}
+
+get {
+  url: {{baseUrl}}/hello
+  body: none
+  auth: inherit
+}
+
+params:query {
+  username: 
+}
+
+vars:pre-request {
+  baseUrl: http://localhost:5197
+}
+
+example {
+  name: 200 Response
+  description: Success
+  
+  request: {
+    url: {{baseUrl}}/hello
+    method: GET
+    mode: none
+    params:query: {
+      username: 
+    }
+  }
+  
+  response: {
+    status: {
+      code: 200
+      text: OK
+    }
+  
+    body: {
+      type: text
+      content: '''
+  
+      '''
+    }
+  }
+}

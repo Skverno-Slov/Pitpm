@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderProcessing", "OrderProcessing\OrderProcessing.csproj", "{DE3979EF-D061-4E14-BB26-E43D678E26CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProgram", "..\TestProgram\TestProgram.csproj", "{3D0F1047-249A-4D79-939B-CD6D59E2E572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE3979EF-D061-4E14-BB26-E43D678E26CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3979EF-D061-4E14-BB26-E43D678E26CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3979EF-D061-4E14-BB26-E43D678E26CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3979EF-D061-4E14-BB26-E43D678E26CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0F1047-249A-4D79-939B-CD6D59E2E572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0F1047-249A-4D79-939B-CD6D59E2E572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0F1047-249A-4D79-939B-CD6D59E2E572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0F1047-249A-4D79-939B-CD6D59E2E572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD5406D-F6E3-4C3A-82B0-A1B8DF75AAEF}
+	EndGlobalSection
+EndGlobal

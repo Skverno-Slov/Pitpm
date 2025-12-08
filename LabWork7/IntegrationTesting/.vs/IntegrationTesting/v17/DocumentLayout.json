@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-31\\Repo\\LabWork7\\IntegrationTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0F1047-249A-4D79-939B-CD6D59E2E572}|..\\TestProgram\\TestProgram.csproj|c:\\users\\221\\students\\ispp-31\\repo\\labwork7\\testprogram\\labwork7tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0F1047-249A-4D79-939B-CD6D59E2E572}|..\\TestProgram\\TestProgram.csproj|c:\\users\\221\\students\\ispp-31\\repo\\labwork7\\testprogram\\repositiryfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3979EF-D061-4E14-BB26-E43D678E26CF}|OrderProcessing\\OrderProcessing.csproj|c:\\users\\221\\students\\ispp-31\\repo\\labwork7\\integrationtesting\\orderprocessing\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3979EF-D061-4E14-BB26-E43D678E26CF}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3979EF-D061-4E14-BB26-E43D678E26CF}|OrderProcessing\\OrderProcessing.csproj|c:\\users\\221\\students\\ispp-31\\repo\\labwork7\\integrationtesting\\orderprocessing\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3979EF-D061-4E14-BB26-E43D678E26CF}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\221\\Students\\ISPP-31\\neRepo\\PITPM\\labs\\lab7\\TestProgram\\UnitTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3979EF-D061-4E14-BB26-E43D678E26CF}|OrderProcessing\\OrderProcessing.csproj|c:\\users\\221\\students\\ispp-31\\repo\\labwork7\\integrationtesting\\orderprocessing\\orderprocessing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE3979EF-D061-4E14-BB26-E43D678E26CF}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\orderprocessing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\221\\Students\\ISPP-31\\neRepo\\PITPM\\labs\\lab7\\TestProgram\\RepositiryFixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\Repo\\LabWork7\\IntegrationTesting\\OrderProcessing\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\Repo\\LabWork7\\IntegrationTesting\\OrderProcessing\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "OrderProcessing\\Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:35:25.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositiryFixture.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\Repo\\LabWork7\\TestProgram\\RepositiryFixture.cs",
+              "RelativeDocumentMoniker": "..\\TestProgram\\RepositiryFixture.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\Repo\\LabWork7\\TestProgram\\RepositiryFixture.cs",
+              "RelativeToolTip": "..\\TestProgram\\RepositiryFixture.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCsAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:03:27.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Labwork7Tests.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\Repo\\LabWork7\\TestProgram\\Labwork7Tests.cs",
+              "RelativeDocumentMoniker": "..\\TestProgram\\Labwork7Tests.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\Repo\\LabWork7\\TestProgram\\Labwork7Tests.cs",
+              "RelativeToolTip": "..\\TestProgram\\Labwork7Tests.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:03:10.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\neRepo\\PITPM\\labs\\lab7\\TestProgram\\UnitTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\neRepo\\PITPM\\labs\\lab7\\TestProgram\\UnitTest.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\neRepo\\PITPM\\labs\\lab7\\TestProgram\\UnitTest.cs",
+              "RelativeToolTip": "..\\..\\..\\neRepo\\PITPM\\labs\\lab7\\TestProgram\\UnitTest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:58:55.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositiryFixture.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\neRepo\\PITPM\\labs\\lab7\\TestProgram\\RepositiryFixture.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\neRepo\\PITPM\\labs\\lab7\\TestProgram\\RepositiryFixture.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\neRepo\\PITPM\\labs\\lab7\\TestProgram\\RepositiryFixture.cs",
+              "RelativeToolTip": "..\\..\\..\\neRepo\\PITPM\\labs\\lab7\\TestProgram\\RepositiryFixture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:58:46.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\Repo\\LabWork7\\IntegrationTesting\\OrderProcessing\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\Repo\\LabWork7\\IntegrationTesting\\OrderProcessing\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrderProcessing\\Services\\OrderService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:58:34.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderProcessing.csproj",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-31\\Repo\\LabWork7\\IntegrationTesting\\OrderProcessing\\OrderProcessing.csproj",
+              "RelativeDocumentMoniker": "OrderProcessing\\OrderProcessing.csproj",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-31\\Repo\\LabWork7\\IntegrationTesting\\OrderProcessing\\OrderProcessing.csproj",
+              "RelativeToolTip": "OrderProcessing\\OrderProcessing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-08T10:58:23.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
