@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zsqMbhTGY18=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\221\\Students\\ISPP-31\\Repo\\PractWorks\\PractWork10\\PractWork10.csproj",
+  "expectedPackageFiles": [
+    "C:\\NugetCache\\Packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\swashbuckle.aspnetcore.swagger\\9.0.0\\swashbuckle.aspnetcore.swagger.9.0.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
